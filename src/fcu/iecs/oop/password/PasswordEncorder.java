@@ -17,7 +17,7 @@ public class PasswordEncorder {
 		password = password.replace("t", "7");
 		password = password.replace("T", "7");
 		
-		
+		System.out.printf(password);	
 		
 	}
 	
